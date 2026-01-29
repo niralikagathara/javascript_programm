@@ -133,4 +133,3 @@ let number = "10";
 console.log(" value == number :",value == number);
 console.log(" value === number :",value === number);
 console.log(" value != number :",value != number);
-
